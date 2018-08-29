@@ -1,0 +1,2 @@
+PAra subir a Netlify npm install netlify-cli -g
+luego netlify init
